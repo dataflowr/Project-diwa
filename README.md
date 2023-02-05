@@ -1,3 +1,9 @@
+# DL-DIY potential project ideas
+- test-out method on different small datasets
+- test in conjuction with weight-fusion mechanism that interpolated model weights: [Improving Predictive Performance and Calibration by Weight Fusion in Semantic Segmentation](https://arxiv.org/abs/2207.11211)
+
+-------------------
+
 # Diverse Weight Averaging for Out-of-Distribution Generalization, NeurIPS 2022
 
 Official PyTorch implementation of DiWA | [paper](https://arxiv.org/abs/2205.09739), [openreview](https://openreview.net/forum?id=tq_J_MqB3UB)
